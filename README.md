@@ -8,8 +8,9 @@ Natural Language Processing (NLP) is a branch of Artificial Intelligence (AI) th
 Examples of NLP applications:
 
 Chatbots 🤖
-Language Translation 🌍
+<BR>
+**Language Translation 🌍
 Sentiment Analysis 😊😡
 Text Summarization 📄
 Speech Recognition 🎤
-Spam Detection 📧
+Spam Detection 📧****
