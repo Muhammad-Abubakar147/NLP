@@ -47,3 +47,9 @@ Pandas
 NumPy
 <BR>
 Matplotlib
+
+# ⭐ Support
+
+If you like this project:
+
+⭐ Star the repository
