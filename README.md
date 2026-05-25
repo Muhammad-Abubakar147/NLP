@@ -30,3 +30,20 @@ Helps build intelligent systems
 Core skill for AI/ML Engineers
 <BR>
 Used by companies like Google, OpenAI, Meta, Amazon, etc.
+
+# 🛠 Technologies Used
+Python
+<BR>
+NLTK
+<BR>
+spaCy
+<BR>
+Scikit-learn
+<BR>
+Transformers
+<BR>
+Pandas
+<BR>
+NumPy
+<BR>
+Matplotlib
