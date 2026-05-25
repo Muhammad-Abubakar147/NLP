@@ -9,8 +9,13 @@ Examples of NLP applications:
 
 Chatbots 🤖
 <BR>
-**Language Translation 🌍
+Language Translation 🌍
+<BR>
 Sentiment Analysis 😊😡
+<BR>
 Text Summarization 📄
+<BR>
 Speech Recognition 🎤
-Spam Detection 📧****
+<BR>
+Spam Detection 📧
+<BR>
