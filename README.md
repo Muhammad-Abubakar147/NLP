@@ -19,3 +19,14 @@ Speech Recognition 🎤
 <BR>
 Spam Detection 📧
 <BR>
+
+# 🎯 Why Learn NLP?
+High demand in AI industry
+<BR>
+Used in modern AI applications
+<BR>
+Helps build intelligent systems
+<BR>
+Core skill for AI/ML Engineers
+<BR>
+Used by companies like Google, OpenAI, Meta, Amazon, etc.
